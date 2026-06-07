@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Declare Integer variable number
+
+Step 3: Output "Enter the number for which the factorial will be calculated."
+
+Step 4: Input number
+
+Step 5: Declare Integer variable result
+
+Step 6: Set result = 1
+
+Step 7: Declare Integer variable counter
+
+Step 8: Start loop: For counter = 1 to number
+
+Step 9: Set result = result * counter
+
+Step 10: Repeat loop until counter > number
+
+Step 11: Output "result = " + result
+
+Step 12: End
